@@ -26,4 +26,4 @@ Verb can be any of the following:
 ## Example repos:
 
 - Almost all my recent repo follow this commit convention. Checkout [my repos](https://github.com/ashokdey?tab=repositories)
-- Recently **[Gaurav](https://github.com/igauravsehrawat)** appreciated and aopted this convention. Checkout [his payroll system demo app](https://github.com/igauravsehrawat/payroll-system)
+- Recently **[Gaurav](https://github.com/igauravsehrawat)** appreciated and adopted this convention. Checkout [his payroll system demo app](https://github.com/igauravsehrawat/payroll-system)
