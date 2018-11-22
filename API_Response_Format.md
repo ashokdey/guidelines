@@ -99,7 +99,7 @@ I have good memories with the above code block and it's now 2 years old. This hi
 
 Credits:
 
-- Erlier data was sent as an empty array whcih created a barrier to add extra keys in the data. So data should be returned as an object and this was coined by [Sahil Chitkara](https://github.com/sahilchitkara)
+- Erlier data was sent as an empty array which created a barrier to add extra keys in the data. So data should be returned as an object and this was coined by [Sahil Chitkara](https://github.com/sahilchitkara)
 
 ### Bonus :blush:
 
