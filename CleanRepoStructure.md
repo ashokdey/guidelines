@@ -55,7 +55,7 @@ src
 
 ## Example Repos
 
-- **[Gaurav](https://github.com/igauravsehrawat)** has did a good job on implementing the above conventions in his [payroll system](https://github.com/igauravsehrawat/payroll-system)
+- **[Gaurav](https://github.com/igauravsehrawat)** has done a good job on implementing the above conventions in his [payroll system](https://github.com/igauravsehrawat/payroll-system)
 - **RecastAI** also got something similar. Hava a look at their [bot-connector](https://github.com/RecastAI/bot-connector/) and also they got a [Wiki](https://github.com/RecastAI/bot-connector/wiki/00-Architecture)
 
 ## Credits
