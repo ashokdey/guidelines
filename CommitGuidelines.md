@@ -16,7 +16,7 @@ Verb can be any of the following:
 
 ## Sample commit messages
 
-- First commit after settin-up a repo: `--init: initial setup`
+- First commit after setting up a repo: `--init: initial setup`
 - After adding new changes: `--update: added db connections`
 - After making any fix: `--fix: DB pool connection instetad of normal connection`
 - After removing anything: `--removed: redis was no longer required for todo app`
@@ -26,4 +26,4 @@ Verb can be any of the following:
 ## Example repos:
 
 - Almost all my recent repo follow this commit convention. Checkout [my repos](https://github.com/ashokdey?tab=repositories)
-- Recently **[Gaurav](https://github.com/igauravsehrawat)** appreciated and adopted this convention. Checkout [his payroll system demo app](https://github.com/igauravsehrawat/payroll-system)
+- Recently **[Gaurav](https://github.com/igauravsehrawat)** adopted this convention. Checkout his [payroll system demo app](https://github.com/igauravsehrawat/payroll-system)
