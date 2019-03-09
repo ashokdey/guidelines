@@ -4,8 +4,8 @@ I have learnt a lot reading from articles, code of others, meeting people and wo
 
 ## Guides
 
-- [Clean REST API folder structure (For Node.js)](CleanRepoStructure.md)
-- [Commit Guidelines for respository](CommitGuidelines.md)
+- [Clean REST API folder structure (For Node.js)](Clean_Repo_Structure.md)
+- [Commit Guidelines for respository](Commit_Guidelines.md)
 - [Having a standard API response format](API_Response_Format.md)
 - [Better approach of Request Validation](VALIDATE_REQUEST.md)
 - [Microservices](Microservices.md) [from [Michael Herman's](https://mherman.org/) [testdrivenio](https://testdriven.io/)]
